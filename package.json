@@ -1,0 +1,17 @@
+{
+  "name": "thekittens-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "aws-sdk": "^2.513.0"
+  },
+  "devDependencies": {
+    "serverless-pseudo-parameters": "^2.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
